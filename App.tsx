@@ -1,8 +1,8 @@
-import React from 'react';
-import DailyUpdate from './src/screens/DailyUpdate';
+import React from 'react'
+import DailyUpdate from './src/screens/DailyUpdate'
 
 const App = () => {
-  return <DailyUpdate />;
+  return <DailyUpdate />
 };
 
-export default App;
+export default App

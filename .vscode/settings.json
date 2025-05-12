@@ -1,0 +1,8 @@
+{
+  // Run ESLint’s “fix” on every save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // Tell ESLint which files to validate
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+}
